@@ -1,4 +1,4 @@
-HTML、CSS、JavaScriptで構築されたシンプルなToDoリストアプリ。
+HTML、CSS、JavaScriptで構築されたシンプルなスライドショーアプリ。
 
 下記のサイトを参考にコードを書いてみました。 
 ・文系大学生のためのJavaScript入門 
