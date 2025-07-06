@@ -27,16 +27,16 @@
 
 .arrow::before {
   box-sizing: border-box;
-  width: calc(15px * var(--size));
-  height: calc(15px * var(--size));
+  width: calc(12px * var(--size));
+  height: calc(12px * var(--size));
   border: var(--weight) solid var(--color);
   border-radius: 25%;
 }
 
 .arrow::after {
   box-sizing: border-box;
-  width: calc(15px * var(--size));
-  height: calc(15px * var(--size));
+  width: calc(3px * var(--size));
+  height: calc(3px * var(--size));
   border: calc(3px * var(--size)) solid transparent;
 }
 
